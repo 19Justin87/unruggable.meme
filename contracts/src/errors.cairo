@@ -1,3 +1,4 @@
+Begin
 const MAX_HOLDERS_REACHED: felt252 = 'Max number of holders reached';
 const ARRAYS_LEN_DIF: felt252 = 'Holders len dont match amounts';
 const MAX_TEAM_ALLOCATION_REACHED: felt252 = 'Max team allocation reached';
@@ -9,3 +10,4 @@ const CALLER_NOT_OWNER: felt252 = 'Caller is not the owner';
 const ALREADY_LAUNCHED: felt252 = 'Already launched';
 const PRICE_ZERO: felt252 = 'Starting tick cannot be 0';
 const MAX_PERCENTAGE_BUY_LAUNCH_TOO_LOW: felt252 = 'Max percentage buy too low';
+End
